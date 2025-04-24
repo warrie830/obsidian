@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "111.md",
-                "mode": "source",
+                "file": "软考/嵌入式硬件.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "111"
+              "title": "嵌入式硬件"
             }
           }
         ]
@@ -179,9 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e3ea4a032941a5b",
+  "active": "c8fa2a9a6336f6f4",
   "lastOpenFiles": [
-    "replies_fixed_2.md",
-    "111.md"
+    "111.md",
+    "软考/嵌入式硬件.md",
+    "软考",
+    "replies_fixed_2.md"
   ]
 }
