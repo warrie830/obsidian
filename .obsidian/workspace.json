@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读.md",
+                "file": "replies_fixed_2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "阅读"
+              "title": "replies_fixed_2"
             }
           }
         ],
@@ -208,10 +208,10 @@
   },
   "active": "3eab56870818ee08",
   "lastOpenFiles": [
-    "阅读.md",
     "111.md",
+    "replies_fixed_2.md",
+    "阅读.md",
     "软考/嵌入式硬件.md",
-    "软考",
-    "replies_fixed_2.md"
+    "软考"
   ]
 }
