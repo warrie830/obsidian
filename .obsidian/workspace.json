@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "嵌入式硬件"
             }
+          },
+          {
+            "id": "b008a6cc0f7dade6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8fa2a9a6336f6f4",
+  "active": "b008a6cc0f7dade6",
   "lastOpenFiles": [
     "111.md",
     "软考/嵌入式硬件.md",
